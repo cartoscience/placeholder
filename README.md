@@ -1,10 +1,10 @@
 # Placeholder
 <br>
-<i>under construction<i>
+<i>under construction</i>
 <!--<a href = "">Link to map</a>-->
 <br>
 <br>
-USGS <a href = "https://lta.cr.usgs.gov/NED">SRTM</a> National Elevation Dataset
+USGS <a href = "https://lta.cr.usgs.gov/NED">National Elevation Dataset</a>
 <br>
 <br>
 <b>Plugins and dependencies thanks to the following creators:</b>	
