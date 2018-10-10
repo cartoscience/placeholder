@@ -1,7 +1,7 @@
 # Placeholder
 <br>
 <i>under construction<i>
-<a href = "">Link to map</a>
+<!--<a href = "">Link to map</a>-->
 <br>
 <br>
 USGS <a href = "https://lta.cr.usgs.gov/NED">SRTM</a> National Elevation Dataset
