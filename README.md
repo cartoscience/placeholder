@@ -1,5 +1,4 @@
 # Valles Caldera
-<br>
 <a href = "https://cartoscience.github.io/valles-caldera/">Link to map</a>
 <br>
 <br>
