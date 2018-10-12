@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>placeholder</title>
+  <title>valles-caldera</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
 	
@@ -32,7 +32,7 @@
 <body>
 
   <div id="map"></div>
-  <div id="map-legend"><img src="./legend.png"></div>
+  <div id="map-legend"><img src="./vcnm_legend.png"></div>
   <a class="github-fork-ribbon right-top" href="https://cartoscience.com" data-ribbon="cartoscience.com" title="cartoscience.com">cartoscience.com</a>
   <script>
 
@@ -47,7 +47,7 @@
         function (error, tiffData) {
       		let dem = L.ScalarField.fromGeoTIFF(tiffData.response, bandIndex = 0);
 	    	let layerD = L.canvasLayer.scalarField(dem).addTo(map);
-	      	layerD.setColor(chroma.scale(['#060c0e','#73d8ff','#9058ff','#ff4811','#ffa050','#e7ff25']).domain([260,620])); 
+	      	layerD.setColor(chroma.scale(['#3b0000','#a83800','#e69900','#ffffbf','#00a8e6','#8400a8','#290052']).domain([1760,3525])); 
 	        controlLayers.addOverlay(layerD, 'DEM');
 		map.fitBounds(layerD.getBounds());
 		layerD.on('click', function (e) {
