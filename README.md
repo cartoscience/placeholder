@@ -1,7 +1,6 @@
 # Valles Caldera
 <br>
-<i>under construction</i>
-<!--<a href = "">Link to map</a>-->
+<a href = "https://cartoscience.github.io/valles-caldera/">Link to map</a>
 <br>
 <br>
 USGS <a href = "https://lta.cr.usgs.gov/NED">National Elevation Dataset</a>
